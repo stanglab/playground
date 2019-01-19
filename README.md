@@ -8,3 +8,4 @@ Testing repository to practice your committing, pull requests, merge conflicts, 
 - Edit this file in your text editor on branch. Commit that branch and do a pull request.
 
 If you get stuck reach out on Slack!
+Ok, First time using this, hope will get it quick.
