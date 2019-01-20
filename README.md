@@ -9,3 +9,6 @@ Testing repository to practice your committing, pull requests, merge conflicts, 
 
 If you get stuck reach out on Slack!
 Ok, First time using this, hope will get it quick.
+
+
+Branching
