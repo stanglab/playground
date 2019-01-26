@@ -1,14 +1,18 @@
-# playground
-Testing repository to practice your committing, pull requests, merge conflicts, etc.
+@@ -0,1 +1,10 @@
+{
+  "name": "git-test",
+  "version": "1.1.0",
+  "description": "",
+  "main": "Testing.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "kln"
+}
+  
+  test.js
+@@ -0,1 +1,2 @@
+// Just a first test commit by Lansah
 
-## Try these
-- Edit this file in the browser and commit it to master
-- Edit this file and commit to a seperate branch. Then do a pull request and tag someone to review it.
-- Edit this file in your text editor. Commit it to master.
-- Edit this file in your text editor on branch. Commit that branch and do a pull request.
-
-If you get stuck reach out on Slack!
-Ok, First time using this, hope will get it quick.
-
-
-Branching
+console.log("Hello America!"); 
