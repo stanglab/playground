@@ -1,11 +1,26 @@
-# playground
-Testing repository to practice your committing, pull requests, merge conflicts, etc.
+# tbinge playground
 
-## Try these
-- Edit this file in the browser and commit it to master
-- Edit this file and commit to a seperate branch. Then do a pull request and tag someone to review it.
-- Edit this file in your text editor. Commit it to master.
-- Edit this file in your text editor on branch. Commit that branch and do a pull request.
+## Project setup
+```
+yarn install
+```
 
-If you get stuck reach out on Slack!
-Ok, First time using this, hope will get it quick.
+### Compiles and hot-reloads for development
+```
+yarn electron:serve
+```
+
+### Compiles and minifies for production
+```
+yarn electron:build
+```
+
+### Lints and fixes files
+```
+yarn run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
+See [Styling Reference](https://vuetifyjs.com/en/).
+See [Electron Reference](https://www.electron.build/).
