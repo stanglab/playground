@@ -4,6 +4,7 @@
 # doing an automatic merge. For more information about associations see:
 # https://developer.github.com/v4/reference/enum/commentauthorassociation/
 minApprovals:
+  OWNER: 2
   MEMBER: 2
   COLLABORATOR: 2
 
