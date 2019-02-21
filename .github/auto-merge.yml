@@ -6,9 +6,7 @@ deleteBranchAfterMerge: true
 reportStatus: true
 
 minApprovals:
-  OWNER: 2
   MEMBER: 2
-  COLLABORATOR: 2
 maxRequestedChanges:
   NONE: 0
 blockingLabels:
